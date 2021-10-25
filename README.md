@@ -26,10 +26,6 @@ Do you have a project? Let's get in touch! *Contact me* using one of the followi
 ![CSS3](https://img.shields.io/badge/-CSS3-444c56?style=flat-square&logoColor=white&logo=css3)
 
 
-![HTML5](https://img.shields.io/badge/-HTML5-444c56?style=flat-square&logoColor=white&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-444c56?style=flat-square&logoColor=white&logo=css3)
-
-
 ![Git](https://img.shields.io/badge/-Git-444c56?style=flat-square&logoColor=white&logo=git)
 ![Github](https://img.shields.io/badge/-GitHub-444c56?style=flat-square&logoColor=white&logo=github)
 ![Github Actions](https://img.shields.io/badge/-GitHub%20Actions-444c56?style=flat-square&logoColor=white&logo=githubactions)
